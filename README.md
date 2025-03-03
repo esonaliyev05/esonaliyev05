@@ -43,6 +43,6 @@
 
 ### Follow Me
 
-[![Telegram](https://img.shields.io/badge/-Telegram-082032?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/it_time)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-082032?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/rustamjon/)
-[![YouTube](https://img.shields.io/badge/-YouTube-082032?style=for-the-badge&logo=YouTube&logoColor=#E4405F)](https://www.youtube.com/channel/UCAjg8E6sRMqJV35BDZrBqhw)
+[![Telegram](https://img.shields.io/badge/-Telegram-082032?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/@Esonaliyev_Alyorbek)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-082032?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/alyorbek-esonaliyev-9a6a27321/)
+[![YouTube](https://img.shields.io/badge/-YouTube-082032?style=for-the-badge&logo=YouTube&logoColor=#E4405F)](https://www.youtube.com/@AlyorbekEsonaliyev)
