@@ -1,16 +1,38 @@
-## Hi there 👋
+<p>
+  <h2 align="center"> Hey there! I'm Rustambek. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+</p>
+<br>
+<p>
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400" height="300"/>
+</p>
 
-<!--
-**esonaliyev05/esonaliyev05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> I'm Software Engineer from Uzbekistan. </h3>
+<br>
+<br>
+- 🔋  I’m <b>Frontend</b> developer .<br>
+- 💬 Ask me about anything, I am happy to help<br>
+- 📫 How to reach me: rustambek0301@gmail.com<br>
+<br>
+<br>
+<hr>
+<br>
+## Languages and Tools
 
-Here are some ideas to get you started:
+![JavaScript](https://img.shields.io/badge/-JavaScript-082032?style=for-the-badge&logo=JavaScript&logoColor=#FEC260)
+![React](https://img.shields.io/badge/-React-082032?style=for-the-badge&logo=React&logoColor=#61DAFB)
+![HTML](https://img.shields.io/badge/-HTML5-082032?style=for-the-badge&logo=HTML5&logoColor=#185ADB)
+![CSS3](https://img.shields.io/badge/-CSS3-082032?style=for-the-badge&logo=CSS3&logoColor=1572B6)
+![Sass](https://img.shields.io/badge/-Sass-082032?style=for-the-badge&logo=Sass&logoColor=CC6699)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-082032?style=for-the-badge&logo=Bootstrap&logoColor=#7952B3)
+![Redux](https://img.shields.io/badge/-Redux-082032?style=for-the-badge&logo=Redux&logoColor=CC6699)
+![Next.js](https://img.shields.io/badge/-Next.js-082032?style=for-the-badge&logo=Next.js&logoColor=CC6699)
+![TypeScript](https://img.shields.io/badge/-TypeScript-082032?style=for-the-badge&logo=TypeScript&logoColor=CC6699)
+![Git](https://img.shields.io/badge/-Git-082032?style=for-the-badge&logo=Git&logoColor=#F05032)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### Follow Me
+
+[![Telegram](https://img.shields.io/badge/-Telegram-082032?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/it_time)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-082032?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/rustamjon/)
+[![YouTube](https://img.shields.io/badge/-YouTube-082032?style=for-the-badge&logo=YouTube&logoColor=#E4405F)](https://www.youtube.com/channel/UCAjg8E6sRMqJV35BDZrBqhw)
