@@ -49,6 +49,18 @@
   <img src="https://axios-http.com/assets/logo.svg" width="50px" alt="Axios"/>
   <img src="https://camo.githubusercontent.com/4539d13620e70ed504ee23a6b15f7e929f8aa2201f3ea6b0cc7e5fa2a32467ab/68747470733a2f2f7374617469632e7a757374616e642e6465762f6c6f676f2e737667" width="50px" alt="Zustand"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="50px" alt="Trello"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50px" alt="FastAPI"/>
+  <img src="https://static-00.iconduck.com/assets.00/openapi-icon-2048x2048-rdx8a5hc.png" width="50px" alt="Swagger (OpenAPI)"/>
+</div>
+
+
+### 📦 Extra Tools:
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="50px" alt="Tailwind CSS"/>
+  <img src="https://axios-http.com/assets/logo.svg" width="50px" alt="Axios"/>
+  <img src="https://camo.githubusercontent.com/4539d13620e70ed504ee23a6b15f7e929f8aa2201f3ea6b0cc7e5fa2a32467ab/68747470733a2f2f7374617469632e7a757374616e642e6465762f6c6f676f2e737667" width="50px" alt="Zustand"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="50px" alt="Trello"/>
 </div>
 
 
