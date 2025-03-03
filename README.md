@@ -14,9 +14,9 @@
 - 📫 How to reach me: alyorbek391@gmail.com<br>
 <br>
 <br>
+<br>
+<br>
 <hr>
-<br>
-<br>
 
 ## Languages and Tools
 
