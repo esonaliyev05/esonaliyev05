@@ -1,5 +1,5 @@
 <p>
-  <h2 align="center"> Hey there! I'm Rustambek. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+  <h2 align="center"> Hey there! I'm Alyorbek. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 </p>
 <br>
 <p>
@@ -11,7 +11,7 @@
 <br>
 - 🔋  I’m <b>Frontend</b> developer .<br>
 - 💬 Ask me about anything, I am happy to help<br>
-- 📫 How to reach me: rustambek0301@gmail.com<br>
+- 📫 How to reach me: alyorbek391@gmail.com<br>
 <br>
 <br>
 <hr>
