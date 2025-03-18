@@ -13,6 +13,7 @@
 - 💬 Ask me about anything, I am happy to help<br>
 - 📫 How to reach me: alyorbek391@gmail.com<br>
 - 📞 +998 (94) 599 93 38
+- 📌 Uzbekistan , Tashkent
 <br>
 <br>
 <br>
