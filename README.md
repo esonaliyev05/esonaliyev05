@@ -12,7 +12,7 @@
 - 🔋  I’m <b>Frontend</b> developer .<br>
 - 💬 Ask me about anything, I am happy to help<br>
 - 📫 How to reach me: alyorbek391@gmail.com<br>
-- 📞 +998 (94) 599 93 38 <br>
+- 📞 +998 (94) 599 93 38 <br> 
 - 📌 Uzbekistan , Tashkent
 <br> 
 <br>
