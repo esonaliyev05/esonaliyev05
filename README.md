@@ -9,7 +9,7 @@
 <h3> I'm Frontend Engineer from Uzbekistan. </h3> 
 <br>
 <br>
-- 🔋  I’m <b>Frontend</b> developer .<br>
+- 🔋  I’m <b>Frontend</b> developer .<br> 
 - 💬 Ask me about anything, I am happy to help<br>
 - 📫 How to reach me: alyorbek391@gmail.com<br>
 - 📞 +998 (77) 153 66 05 <br> 
