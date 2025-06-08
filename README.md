@@ -1,62 +1,92 @@
-<p>
-  <h2 align="center"> Hey there! I'm Alyorbek. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h1 align="center">Salom, Men Alyorbek! 👋</h1>
+<h3 align="center">Frontend Developer | React.js Enthusiast | 🇺🇿 O'zbekiston</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" />
 </p>
-<br>
-<p>
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400" height="300"/>
-</p>
 
-<h3> I'm Frontend Engineer from Uzbekistan. </h3> 
-<br>
-<br>
-- 🔋  I’m <b>Frontend</b> developer .<br> 
-- 💬 Ask me about anything, I am happy to help<br>
-- 📫 How to reach me: alyorbek391@gmail.com<br>
-- 📞 +998 (77) 153 66 05 <br> 
-- 📌 Uzbekistan , Tashkent
-<br> 
-<br>
-<br>
+---
 
+### 🧑‍💻 Men haqimda:
 
+- 🎓 Namangan Davlat Texnika Universiteti talabasi – “Axborot tizimlari va texnologiyalari” yo‘nalishi.
+- 💻 Frontend sohasida 1.5+ yillik tajriba. React.js, Vite, TypeScript, va Tailwind CSS bilan ishlayman.
+- 🚀 Mobil dasturlash yo‘nalishida ham rivojlanmoqdaman (React Native).
+- 📚 Doimiy o‘rganish va jamoaviy ishlashga qiziqaman.
+- 💬 Har qanday savollaringiz bo‘lsa, bemalol so‘rashingiz mumkin!
 
-<br>
-<br>
-<hr>
+---
 
+### 📫 Aloqa:
+- 📩 Gmail: **alyorbek391@gmail.com**
+- 📞 Telefon: **+998 (77) 153 66 05**
+- 📍 Manzil: **Toshkent, O‘zbekiston**
 
-## 🚀 Languages and Tools:
+---
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Ant Design](https://img.shields.io/badge/Ant%20Design-1890FF?style=for-the-badge&logo=antdesign&logoColor=white)  
-![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React.js](https://img.shields.io/badge/React.js-35495E?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)  
+## 🚀 Texnologiyalar va Asboblar:
+
+### 🖥️ Frontend
+![HTML](https://img.shields.io/badge/HTML-E44D26?style=for-the-badge&logo=html5&logoColor=fff)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Ant Design](https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+
+### ⚛️ JavaScript & Frameworks
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white)
-![Axios](https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+
+### 🛠️ Tools & Platforms
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![npm](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
+---
 
+## 📊 GitHub Statistikam:
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alyorbek&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alyorbek&theme=radical" height="180"/>
+</p>
 
+---
 
+## 🎯 Hozirda O‘rganayotgan Texnologiyalar:
+- ✅ **Node.js**
+- ✅ **MongoDB**
+- ✅ **React Native**
+- ✅ **Next.js**
 
+---
 
-### Follow Me
+### 🔗 Mening Tarmoqlarim:
 
-[![Telegram](https://img.shields.io/badge/-Telegram-082032?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/Esonaliyev_Alyorbek)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-082032?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/alyorbek-esonaliyev-9a6a27321/)
-[![YouTube](https://img.shields.io/badge/-YouTube-082032?style=for-the-badge&logo=YouTube&logoColor=#E4405F)](https://www.youtube.com/@AlyorbekEsonaliyev)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Esonaliyev_Alyorbek)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alyorbek-esonaliyev-9a6a27321/)
+[![YouTube](https://img.shields.io/badge/YouTube-E4405F?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AlyorbekEsonaliyev)
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
+
+> 🎯 Har doim yangi cho‘qqilar sari!  
+
