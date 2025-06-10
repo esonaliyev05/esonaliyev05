@@ -14,7 +14,7 @@
 - 🚀 Mobil dasturlash yo‘nalishida ham rivojlanmoqdaman (React Native).
 - 📚 Doimiy o‘rganish va jamoaviy ishlashga qiziqaman.
 - 💬 Har qanday savollaringiz bo‘lsa, bemalol so‘rashingiz mumkin!
-
+- 
 ---
 
 ### 📫 Aloqa:
