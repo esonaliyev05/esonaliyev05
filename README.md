@@ -6,7 +6,7 @@
 </p>
 
 --- 
-
+ 
 ### 🧑‍💻 Men haqimda:
 
 - 🎓 Namangan Davlat Texnika Universiteti talabasi – “Axborot tizimlari va texnologiyalari” yo‘nalishi.
