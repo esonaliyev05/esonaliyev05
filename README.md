@@ -1,30 +1,30 @@
-<h1 align="center">Salom, Men Alyorbek! 👋</h1>
-<h3 align="center">Frontend Developer | React.js Enthusiast | Uzbekiston</h3>
+<h1 align="center">Hello, I'm Alyorbek! 👋</h1>
+<h3 align="center">Frontend Developer | React.js Enthusiast | Uzbekistan</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" />
 </p>
 
 --- 
- 
-### 🧑‍💻 Men haqimda:
 
-- 🎓 Namangan Davlat Texnika Universiteti talabasi – “Axborot tizimlari va texnologiyalari” yo‘nalishi.
-- 💻 Frontend sohasida 1.5+ yillik tajriba. React.js, Vite, TypeScript, va Tailwind CSS bilan ishlayman.
-- 🚀 Mobil dasturlash yo‘nalishida ham rivojlanmoqdaman (React Native).
-- 📚 Doimiy o‘rganish va jamoaviy ishlashga qiziqaman.
-- 💬 Har qanday savollaringiz bo‘lsa, bemalol so‘rashingiz mumkin!
-- 
+### 🧑‍💻 About Me:
+
+- 🎓 Student at Namangan State Technical University – “Information Systems and Technologies” program.
+- 💻 Over 1.5 years of experience in frontend development. I work with React.js, Vite, TypeScript, and Tailwind CSS.
+- 🚀 Also developing skills in mobile app development (React Native).
+- 📚 Passionate about continuous learning and teamwork.
+- 💬 Feel free to ask me any questions!
+
 ---
 
-### 📫 Aloqa:
+### 📫 Contact:
 - 📩 Gmail: **alyorbek391@gmail.com**
-- 📞 Telefon: **+998 (77) 153 66 05**
-- 📍 Manzil: **Toshkent, O‘zbekiston**
+- 📞 Phone: **+998 (77) 153 66 05**
+- 📍 Location: **Tashkent, Uzbekistan**
 
 ---
 
-## 🚀 Texnologiyalar va Asboblar:
+## 🚀 Technologies and Tools:
 
 ### 🖥️ Frontend
 ![HTML](https://img.shields.io/badge/HTML-E44D26?style=for-the-badge&logo=html5&logoColor=fff)
@@ -59,7 +59,7 @@
 
 ---
 
-## 📊 GitHub Statistikam:
+## 📊 GitHub Stats:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alyorbek&show_icons=true&theme=radical" height="180" />
@@ -68,7 +68,7 @@
 
 ---
 
-## 🎯 Hozirda O‘rganayotgan Texnologiyalar:
+## 🎯 Technologies I'm Currently Learning:
 - ✅ **Node.js**
 - ✅ **MongoDB**
 - ✅ **React Native**
@@ -76,7 +76,7 @@
 
 ---
 
-### 🔗 Mening Tarmoqlarim:
+### 🔗 My Networks:
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Esonaliyev_Alyorbek)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alyorbek-esonaliyev-9a6a27321/)
@@ -88,5 +88,5 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
 
-> 🎯 Har doim yangi cho‘qqilar sari!  
+> 🎯 Always aiming for new heights!
 
