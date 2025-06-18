@@ -8,7 +8,7 @@
 ---         
         
 ### 🧑‍💻 About Me:       
-    
+     
 - 🎓 Student at Namangan State Technical University – “Information Systems and Technologies” program. 
 - 💻 Over 1.5 years of experience in frontend development. I work with React.js, Vite, TypeScript, and Tailwind CSS.
 - 🚀 Also developing skills in mobile app development (React Native).
