@@ -15,7 +15,7 @@
 - 📚 Passionate about continuous learning and teamwork.  
 - 💬 Feel free to ask me any questions!
  
----
+--- 
 
 ### 📫 Contact:
 - 📩 Gmail: **alyorbek391@gmail.com**
