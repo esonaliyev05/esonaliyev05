@@ -4,7 +4,7 @@
            
                        
 ---                     
-                  
+                   
 ### 🧑‍💻 About Me:           
       
 - 🎓 Student at Namangan State Technical University – “Information Syste ms and Technologies” program.  
