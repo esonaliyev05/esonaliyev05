@@ -23,7 +23,7 @@
 ---
 
 ## 🚀 Technologies and Tools:
-
+ 
 ### 🖥️ Frontend
 ![HTML](https://img.shields.io/badge/HTML-E44D26?style=for-the-badge&logo=html5&logoColor=fff)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
