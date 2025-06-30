@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer | React.js Enthusiast | Uzbekistan</h3> 
     
                  
-                            
+                             
 ---                          
                      
 ### 🧑‍💻 About Me:               
