@@ -84,10 +84,11 @@
 
 ---
 
-## 🔗 My Networks:  
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Esonaliyev_Alyorbek)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alyorbek-esonaliyev-9a6a27321/)  
-[![YouTube](https://img.shields.io/badge/YouTube-E4405F?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AlyorbekEsonaliyev)  
+### 🔗 My Networks:
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Esonaliyev_Alyorbek)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alyorbek-esonaliyev-9a6a27321/)
+[![YouTube](https://img.shields.io/badge/YouTube-E4405F?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AlyorbekEsonaliyev)
 
 ---
 
