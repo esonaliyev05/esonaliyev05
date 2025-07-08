@@ -1,9 +1,7 @@
 <h1 align="center">Hello, I'm Alyorbek! 👋</h1>  
 <h3 align="center">Middle Frontend Developer | React.js Enthusiast | SEO Engineer | UI/UX Designer | Uzbekistan</h3>  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-</p>
+
 
 ---
 
