@@ -22,7 +22,7 @@
 - 📍 **Location**: Tashkent, Uzbekistan  
 
 ---
-
+ 
 ## 🚀 Technologies and Tools:  
 
 ### 🖥️ Frontend
