@@ -69,13 +69,7 @@
 
 ---
 
-## 📊 GitHub Stats:  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alyorbek&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alyorbek&theme=radical" height="180"/>
-</p>
 
----
 
 ## 🎯 Technologies I'm Currently Learning:  
 - ✅ **Node.js**  
