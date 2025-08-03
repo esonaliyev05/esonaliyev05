@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Alyorbek! 👋</h1>    
 <h3 align="center">Middle Frontend Developer | React.js Enthusiast | SEO Engineer | UI/UX Designer | Uzbekistan</h3>          
                      
-                                         
+                                          
                                                         
 ---                                                  
                                        
