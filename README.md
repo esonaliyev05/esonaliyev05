@@ -75,7 +75,7 @@
 - ✅ **Node.js**  
 - ✅ **MongoDB**  
 - ✅ **React Native**  
-- ✅ **Next.js**  
+- ✅ **Next.js**        
 - ✅ **Advanced SEO Techniques**  
 - ✅ **UI/UX Design Principles**  
 
