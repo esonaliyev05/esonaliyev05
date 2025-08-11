@@ -2,9 +2,9 @@
 <h3 align="center">Middle Frontend Developer | SEO Engineer | UI/UX Designer </h3>                    
                                                                                                                                                
                                                          
-                                                                        
+                                                                      
 ---                                                                                                                                     
-                                                                                                 ccc                                                    
+                                                                                                                                           
 ### 🧑‍💻 About Me:                                                                                                                                   
 - 🎓 **Student** at Namangan State Technical University – *Information Systems and Technologies* program.            
 - 💻 **Over 1.5 years of experience** as a Middle Frontend Developer, specializing in **React.js**, **Vite**, **TypeScript**, and **Tailwind CSS**.   
