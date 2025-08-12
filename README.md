@@ -71,15 +71,6 @@
 
 
 
-## 🎯 Technologies I'm Currently Learning:  
-- ✅ **Node.js**  
-- ✅ **MongoDB**  
-- ✅ **React Native**  
-- ✅ **Next.js**        
-- ✅ **Advanced SEO Techniques**  
-- ✅ **UI/UX Design Principles**  
-
----
 
 ### 🔗 My Networks:
 
