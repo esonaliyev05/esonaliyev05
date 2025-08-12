@@ -85,4 +85,9 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=CodesByUmar&theme=dracula&margin-w=10&no-frame=true)
 
-> 🎯 **Always aiming for new heights in development and design!**  
+> 🎯 **Always aiming for new heights in development and design!**
+
+
+<p align="center">
+ <img width="1000" src=".github/.workflows/snake.svg" alt="snake"/>
+</p>
