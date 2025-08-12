@@ -89,4 +89,9 @@
 
 ---
 
+
+### 🏆 GitHub Achievements
+
+![trophy](https://github-profile-trophy.vercel.app/?username=CodesByUmar&theme=dracula&margin-w=10&no-frame=true)
+
 > 🎯 **Always aiming for new heights in development and design!**  
