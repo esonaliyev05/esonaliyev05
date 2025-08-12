@@ -88,6 +88,3 @@
 > 🎯 **Always aiming for new heights in development and design!**
 
 
-<p align="center">
- <img width="1000" src=".github/.workflows/snake.svg" alt="snake"/>
-</p>
