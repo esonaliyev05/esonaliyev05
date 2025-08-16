@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Alyorbek! 👋</h1>                                                                                                         
 <h3 align="center">Middle Frontend Developer | SEO Engineer | UI/UX Designer </h3>                                         
-                                                                                                                                                                                                                                              
+                                                                                                                                                                                                                                                                       
                                                                                                                                                                             
                                                                                                                                                                                                                                               
 ---                                                                                                                                                                                                                                                                                                                                                                                   
