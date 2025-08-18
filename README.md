@@ -1,4 +1,6 @@
-<h1 align="center">Hello, I'm Alyorbek! 👋</h1>                                                                                                         
+
+![alyorbek](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Hi+there,+I'm+Esonaliyev+Alyorbek;I'm+KNCoder!)
+
 <h3 align="center">Middle Frontend Developer | SEO Engineer | UI/UX Designer </h3>                                         
                                                                                                                                                                                                                                                                                                                                  
                                                                                                                                                                                                          
