@@ -1,9 +1,12 @@
 
-![typing](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Esonaliyev+Alyorbek;Frontend+Developer)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Esonaliyev+Alyorbek;Frontend+Developer" alt="Typing SVG" />
+</p>
 
 
 <h3 align="center">Middle Frontend Developer | SEO Engineer | UI/UX Designer </h3>                                         
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+
+
 ---                                                                                                                                                                                                                                                                                                                                                                                          
                                                                                                                                                                                                            
 ### 🧑‍💻 About Me:                                                                                                                                                                                                     
