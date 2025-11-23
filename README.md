@@ -24,7 +24,7 @@
   
 ### 📫 Contact:  
 - 📩 **Gmail**: [alyorbek391@gmail.com](mailto:alyorbek391@gmail.com)  
-- 📞 **Phone**: [+998 (77) 153 66 05](tel:+998771536605)  
+- 📞 **Phone**: [+998 (94) 599 93 38](tel:+998945999338)  
 - 📍 **Location**: Tashkent, Uzbekistan  
 
 ---
