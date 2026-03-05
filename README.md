@@ -15,7 +15,7 @@
                                                                                                                                                                                                                                                                           
 ### 🧑‍💻 About Me:                                                                                                                                                                                                     
 - 🎓 **Student** at Namangan State Technical University – *Information Systems and Technologies* program.                        
-- 💻 **Over 1.5 years of experience** as a Middle Frontend Developer, specializing in **React.js**, **Vite**, **TypeScript**, and **Tailwind CSS**.   
+- 💻 **Over 2 years of experience** as a Middle Frontend Developer, specializing in **React.js**, **Vite**, **TypeScript**, and **Tailwind CSS**.   
 - 🚀 Skilled in **mobile app development** with **React Native** and passionate about creating seamless user experiences.   
 - 🔍 Experienced **SEO Engineer**, optimizing web content for better visibility and performance.    
 - 🎨 Proficient in **UI/UX Design**, crafting intuitive and visually appealing interfaces.                                              
