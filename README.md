@@ -2,25 +2,21 @@
 
 Fullstack JavaScript Developer.
 
-I build web and mobile applications using the JavaScript ecosystem.  
-Focused on clean architecture, performance and scalable applications.
+I build scalable web and mobile applications using the JavaScript ecosystem.  
+Focused on clean architecture, performance and maintainable code.
 
 ### Tech Stack
 
-Frontend  
-React, Next.js, TypeScript, JavaScript, HTML, CSS, Sass, TailwindCSS
+JavaScript, TypeScript  
+React, Next.js, React Native  
+Node.js, NestJS, Express.js  
+HTML, CSS, Sass, TailwindCSS  
+Redux Toolkit, Zustand  
+REST API, JWT Authentication  
 
-Mobile  
-React Native
+### Tools
 
-Backend  
-Node.js, NestJS, Express.js, REST API, JWT Authentication
-
-State Management  
-Redux Toolkit, Zustand
-
-Tools  
-Git, GitHub, Vite, Postman, Figma, Docker
+Git, GitHub, Vite, Postman, Figma
 
 ### Contact
 Email: alyorbek391@gmail.com  
