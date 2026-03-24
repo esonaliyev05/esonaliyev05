@@ -9,7 +9,7 @@ Focused on clean architecture, performance and maintainable code.
 
 JavaScript, TypeScript  
 React, Next.js, React Native  
-Node.js, NestJS, Express.js  
+Node.js, NestJS, Express.js   
 HTML, CSS, Sass, TailwindCSS  
 Redux Toolkit, Zustand  
 REST API, JWT Authentication  
