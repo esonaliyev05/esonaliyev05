@@ -1,4 +1,4 @@
-## Alyorbek Esonaliyev     
+## Alyorbek Esonaliyev      
     
 Fullstack JavaScript Developer.      
    
