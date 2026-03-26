@@ -12,4 +12,4 @@ React, Next.js, React Native
 Node.js, NestJS, Express.js   
 HTML, CSS, Sass, TailwindCSS  
 Redux Toolkit, Zustand  
-REST API, JWT Authentication  
+REST API, JWT Authentication   
