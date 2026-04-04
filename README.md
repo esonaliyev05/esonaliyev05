@@ -7,7 +7,7 @@ Focused on clean architecture, performance and maintainable code.
     
 ### Tech Stack       
  
-JavaScript, TypeScript  
+JavaScript, TypeScript    
 React, Next.js, React Native  
 Node.js, NestJS, Express.js   
 HTML, CSS, Sass, TailwindCSS  
