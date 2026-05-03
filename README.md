@@ -1,6 +1,6 @@
 ## Alyorbek Esonaliyev              
                            
-Fullstack JavaScript Developer.                     
+Fullstack JavaScript Developer.                      
             
 I build scalable web and mobile applications using the JavaScript ecosystem.    
 Focused on clean architecture, performance and maintainable code.  
