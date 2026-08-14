@@ -1,5 +1,5 @@
 # Hi 👋 I'm Alyorbek Esonaliyev        
-                                                                          
+                                                                                
 <p align="center">                                                  
   <img src="https://readme-typing-svg.herokuapp.com?         font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Fullstack+JavaScript+Developer;React+%7C+Next.js+%7C+Node.js;Clean+Architecture+Lover;Always+Learning+New+Tech" />   
 </p>                               
