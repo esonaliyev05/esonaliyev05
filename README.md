@@ -31,33 +31,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
-</p>
-
----
-
-## 🎯 Currently Focused On
-
-- ⚙️ Advanced Node.js & NestJS architecture  
-- ⚛️ Next.js fullstack applications  
-- 🚀 Scalable SaaS products  
-- 📱 React Native mobile apps  
-
----
-
 ## 📫 Contact Me
 
 <p align="center">
@@ -72,8 +45,3 @@
   </a>
 </p>
 
----
-
-<p align="center">
-  ⭐ If you like my work, consider following me!
-</p>
