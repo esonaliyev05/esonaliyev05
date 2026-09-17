@@ -4,7 +4,7 @@
        
 ## 🚀 About Me                        
                  
-💻 I build scalable web & mobile apps using JavaScript ecosystem
+💻 I build scalable web & mobile apps using JavaScript ecosystem 
 ⚡ Focused on performance, clean architecture & maintainable code           
 📦 Passionate about backend systems and modern frontend frameworks  
 
