@@ -8,7 +8,7 @@
 ⚡ Focused on performance, clean architecture & maintainable code  
 📦 Passionate about backend systems and modern frontend frameworks
 
----
+---  
 
 ## 🧠 Tech Stack
 
