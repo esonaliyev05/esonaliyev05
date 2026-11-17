@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=EsonaliyevAlyorbek&label=Profile%20Views&color=0e75b6&style=flat)
 
-## 🚀 About Me
+## 🚀 About Me    
 
 💻 Frontend Engineer passionate about building scalable Web & Mobile Applications  
 ⚡ Focused on performance, clean architecture & maintainable code  
